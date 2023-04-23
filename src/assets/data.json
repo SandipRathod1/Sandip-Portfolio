@@ -1,0 +1,48 @@
+{
+    "projects": [
+      {
+        "date": "07/03/2023",
+        "title": "TEXTUTILS",
+        "description": "This is text utility application where you can edit the text like uppercase, lowercase, removing the extra spaces and copy the text and use it any where you want",
+        "url": "https://texteditings.netlify.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      },
+  
+      {
+        "date": "15/03/2023",
+        "title": "NETFLIX STREAM",
+        "description": "Here i have created a clone for netflix as front end where it looks line the real netflix using html and css only",
+        "url": "https://github.com/SandipRathod1/Netflix-Stream",
+        "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+      },
+      {
+        "date": "5/02/2023",
+        "title": "FLIPKART CLONE",
+        "description": "Here i have created a clone for Fflipkart as front end where it looks line the real flipkart using html and css only",
+        "url": "https://github.com/SandipRathod1/FlipKart-Clone",
+        "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      },
+  
+      {
+        "date": "02/04/2023",
+        "title": "TECHYSTAR",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "https://github.com/SandipRathod1/TechyStar",
+        "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+      },
+      {
+        "date": "20/04/2023",
+        "title": "Z-CRYPTOAPP",
+        "description": "Z-CRYPTO is realtime application where you can see the real price of the all crypto coins as well links to buy them from different websites. and the previous data from last 1 year tou can see",
+        "url": "https://z-cryptoapp.netlify.app",
+        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      },
+      {
+        "date": "23/04/2023",
+        "title": "PORTFOLIO",
+        "description": "Sandip Rathod portfolio",
+        "url": "/",
+        "imgSrc": "./photo.png"
+      }
+    ]
+  }
